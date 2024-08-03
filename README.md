@@ -1,2 +1,2 @@
 # What is this?
-Building a computer in scratch! 
+Building a computer from scratch! 
