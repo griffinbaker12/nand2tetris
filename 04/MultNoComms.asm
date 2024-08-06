@@ -1,3 +1,12 @@
+// come back and add some comments up here
+@R0
+D=M
+@ZERO_RESULT
+D;JEQ
+@R1
+D=M
+@ZERO_RESULT
+D;JEQ
 @i
 M=1
 @fv
@@ -30,7 +39,9 @@ M=M+1
 D=M
 @R2
 M=D
-0
+(ZERO_RESULT)
+@R2
+M=0
 (END)
 @END
 0;JMP
